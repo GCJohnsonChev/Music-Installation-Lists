@@ -1,0 +1,9 @@
+Sudo pacman -Syyu && -S cmus ./Puck
+
+sudo Puck --Music-Install
+
+Nine Inch Nails
+A Perfect Circle
+Dubstep Mix
+Chillstep Mix
+Drum and Bass Mix
