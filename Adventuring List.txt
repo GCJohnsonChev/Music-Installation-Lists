@@ -135,6 +135,6 @@ sudo Puck --Music-Install
 // Reggae
 
 - Bob Marley
-- Bob Marley and The Walkers
+- Bob Marley and The Wailers
 - Peter Tosh
 - Steel Pulse
