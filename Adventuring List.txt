@@ -126,3 +126,15 @@ sudo Puck --Music-Install
 // Mexican Rock
 
 - El Chingon
+
+  ___                        
+ | _ \___ __ _ __ _ __ _ ___ 
+ |   / -_) _` / _` / _` / -_)
+ |_|_\___\__, \__, \__,_\___|
+         |___/|___/
+// Reggae
+
+- Bob Marley
+- Bob Marley and The Walkers
+- Peter Tosh
+- Steel Pulse
