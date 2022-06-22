@@ -163,4 +163,4 @@ sudo Puck --Music-Install
  |_|_\___/\__|_\_\ \___|_||_| |___/__/ .__/\__,_|_||_\___/_|
  // Rock en Español                   |_|
 
-- Jaraba de Palo                 
+- Jarabe de Palo                 
