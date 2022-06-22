@@ -173,4 +173,11 @@ sudo Puck --Music-Install
 // Celtic
 
 - Clandestine
-- Clandestine & Remixes, La Cocaina
+
+   ___        _               __  __ _            
+  / __|  _ __| |_ ___ _ __   |  \/  (_)_ _____ ___
+ | (_| || (_-<  _/ _ \ '  \  | |\/| | \ \ / -_|_-<
+  \___\_,_/__/\__\___/_|_|_| |_|  |_|_/_\_\___/__/
+// DJ and Custom Mixes                                        
+
+- Clandestina & Remixes, La Cocaina
