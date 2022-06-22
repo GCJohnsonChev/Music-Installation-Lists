@@ -133,6 +133,8 @@ sudo Puck --Music-Install
 // Mexican Rock
 
 - El Chingon
+- Maná
+- La Revolución de Emiliano Zapata
 
   ___                        
  | _ \___ __ _ __ _ __ _ ___ 
