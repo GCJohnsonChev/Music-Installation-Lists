@@ -75,6 +75,7 @@ sudo Puck --Music-Install
 // Scandinavian-Pagan                                           |___/
 
 - Wardruna
+- Baldr's Draumar
 
   ___         _                          _        _ 
  |_ _|_ _  __| |_ _ _ _  _ _ __  ___ _ _| |_ __ _| |
