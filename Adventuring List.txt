@@ -76,6 +76,10 @@ sudo Puck --Music-Install
 
 - Wardruna
 - Baldr's Draumar
+- Heilung
+- Faun
+- Omnia
+- Hagalaz' Runedance
 
   ___         _                          _        _ 
  |_ _|_ _  __| |_ _ _ _  _ _ __  ___ _ _| |_ __ _| |
@@ -173,6 +177,7 @@ sudo Puck --Music-Install
 // Celtic
 
 - Clandestine
+- Loreena McKennitt
 
    ___        _               __  __ _            
   / __|  _ __| |_ ___ _ __   |  \/  (_)_ _____ ___
