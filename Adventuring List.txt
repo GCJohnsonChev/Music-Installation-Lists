@@ -148,3 +148,11 @@ sudo Puck --Music-Install
 // Pop-Rock|_|                       
 
 - Elton John
+
+ ___         _   
+| _ \___  __| |__
+|   / _ \/ _| / /
+|_|_\___/\__|_\_\
+// Rock
+
+- The Beach Boys
