@@ -2,6 +2,12 @@ Sudo pacman -Syyu && -S cmus ./Puck
 
 sudo Puck --Music-Install
 
+// Process this list through Puck.py
+// Puck.py will automatically download the entire discography of each musical group from public sources and convert the
+// music to high definition MP3 Format at 320KBPS. 2MBPS Internet connection will download several GB of music to the hard drive quickly.
+// Puck.py will then automatically rename each soundtrack file to an organized and appended name.
+// Album clipart will automatically be downloaded and placed into the directory. 
+
   ___         _         _       _      _ 
  |_ _|_ _  __| |_  _ __| |_ _ _(_)__ _| |
   | || ' \/ _` | || (_-<  _| '_| / _` | |
