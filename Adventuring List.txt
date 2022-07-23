@@ -17,6 +17,7 @@ sudo Puck --Music-Install
 - Nine Inch Nails
 - A Perfect Circle
 - David Bowie
+- Stabbing Westward
 
     _   _ _                     _   _         
    /_\ | | |_ ___ _ _ _ _  __ _| |_(_)_ _____ 
