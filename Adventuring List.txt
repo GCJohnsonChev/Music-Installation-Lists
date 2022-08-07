@@ -330,3 +330,5 @@ sudo Puck --Music-Install
 - Akira - Yamashirogumi
 - Fushigi Yuugi Original Soundtrack
 - Donny Darko Soundtrack
+- Vampire Hunter D - Tetsuya Komuro
+- The Next Three Days - Danny Elfman
