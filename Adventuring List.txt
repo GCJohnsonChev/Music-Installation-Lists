@@ -344,3 +344,4 @@ sudo Puck --Music-Install
 - The Next Three Days - Danny Elfman
 - Hard Time Killin' Floor Blues - Chris Thomas King
 - Oh Brother Where Art Thou ? Soundtrack
+- Cowboy Bebop Soundtrack
