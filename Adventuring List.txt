@@ -1,4 +1,4 @@
-Sudo pacman -Syyu && -S cmus ./Puck
+sudo pacman -Syyu && -S cmus ./Puck
 
 sudo Puck --Music-Install
 
@@ -162,6 +162,7 @@ sudo Puck --Music-Install
 // Pop-Rock|_|                       
 
 - Elton John
+- Eagle Eye Cherry
 
   ___         _   
  | _ \___  __| |__
@@ -171,6 +172,18 @@ sudo Puck --Music-Install
 
 - The Beach Boys
 - The Church
+- Journey
+- AC/DC
+- Def Leppard
+- Toto
+- White Snake
+- Guns N' Roses
+- Van Halen
+- U2
+- Scorpions
+- Poison
+- R.E.M.
+- Tom Petty
 
   ___         _                ___               /\/|     _ 
  | _ \___  __| |__  ___ _ _   | __|____ __  __ _|/\/  ___| |
