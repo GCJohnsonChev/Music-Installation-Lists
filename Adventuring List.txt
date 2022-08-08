@@ -171,6 +171,7 @@ sudo Puck --Music-Install
 
 - Elton John
 - Eagle Eye Cherry
+- Sarah McLachlan
 
   ___         _   
  | _ \___  __| |__
