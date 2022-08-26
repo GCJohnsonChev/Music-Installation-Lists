@@ -18,6 +18,14 @@ sudo Puck --Music-Install
 - A Perfect Circle
 - David Bowie
 - Stabbing Westward
+- My Life With The Thrill Kill Kult
+- Machines of Loving Grace
+- Violent Femmes
+- Rollins Band
+- Helmet
+- For Love and Not Lisa
+- Medicine
+- Jane Siberry
 
     _   _ _                     _   _         
    /_\ | | |_ ___ _ _ _ _  __ _| |_(_)_ _____ 
@@ -81,8 +89,7 @@ sudo Puck --Music-Install
  \ \    / /__  ___| |__ _  _/ __| |_ ___ _ __ 
   \ \/\/ / _ \/ _ \ '_ \ || \__ \  _/ -_) '_ \
    \_/\_/\___/\___/_.__/\_, |___/\__\___| .__/
-                        |__/            |_|   
-// WoobyStep
+// WoobyStep             |__/            |_|   
 
    ___        _               ___           _            
   / __|  _ __| |_ ___ _ __   | _ \___ _ __ (_)_ _____ ___
