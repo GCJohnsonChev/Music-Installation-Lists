@@ -78,6 +78,11 @@ sudo Puck --Music-Install
   \___|_||_|_|_|_/__/\__\___| .__/
 // ChillStep                  |_|
 
+- ModStep
+- Phaeleh
+- Electus
+- Glitch Mob
+
   ___       _       _            
  |   \ _  _| |__ __| |_ ___ _ __ 
  | |) | || | '_ (_-<  _/ -_) '_ \
