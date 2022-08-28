@@ -280,6 +280,7 @@ sudo Puck --Music-Install
 - Clandestine
 - Loreena McKennitt
 - Enya
+- Clannad
 
    ___        _               __  __ _            
   / __|  _ __| |_ ___ _ __   |  \/  (_)_ _____ ___
