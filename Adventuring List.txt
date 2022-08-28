@@ -135,6 +135,7 @@ sudo Puck --Music-Install
 - Omnia
 - Hagalaz' Runedance
 - Björk
+- Fever Ray
 
   ___         _                          _        _ 
  |_ _|_ _  __| |_ _ _ _  _ _ __  ___ _ _| |_ __ _| |
