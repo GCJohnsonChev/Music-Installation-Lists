@@ -133,7 +133,7 @@ sudo Puck --Music-Install
 - Heilung
 - Faun
 - Omnia
-- Hagalaz' Runedance
+- Hagalaz' Runedance // Andrea Haugen
 - Björk
 - Fever Ray
 
